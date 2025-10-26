@@ -1,5 +1,0 @@
-version: STSv1
-mode: enforce
-mx: garyspringfieldmo-net01b2b.b-v1.mx.microsoft
-mx: smtp.dnsexit.com
-max_age: 604800
